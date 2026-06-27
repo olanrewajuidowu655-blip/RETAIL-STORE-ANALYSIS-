@@ -1,6 +1,6 @@
 ## retail_store_analysis_project
 
-## Dashboard Preview
+## Dashboard 
 ![Retail Store Dashboard](Dashboard.PNG)
 
 ## Project Overview
