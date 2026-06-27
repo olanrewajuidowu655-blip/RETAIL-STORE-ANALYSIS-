@@ -1,7 +1,7 @@
 ## retail_store_analysis_project
 
 ## Dashboard Preview
-    ![Retail Store Dashboard](Dashboard.PNG)
+![Retail Store Dashboard](Dashboard.PNG)
 
 ## Project Overview
     This project analyzes a retail store across four regions over a four year period in order to find insights on sales performance, profitability, regional comparison, discounts, target achievements, trends, shipping modes and key influencers in order to support decision-making across all speheres in the organization
