@@ -1,11 +1,11 @@
 ## retail_store_analysis_project
 
-## Dashboard 
+## Power BI Dashboard 
 ![Retail Store Dashboard](Dashboard.PNG)
 
 ## Project Overview
-    This project analyzes a retail store across four regions over a four year period in order to find insights on sales performance, profitability, regional comparison, discounts, target achievements, trends, shipping modes and key influencers in order to support decision-making across all spheres in the organization
-  
+    This project analyzes the performance of a retail store between 2015 and 2018. The objective is to evaluate sales performance, profitability, regional comparison, discounts, target achievements, trends, shipping modes and key influencers to uncover actionable insights that support business decision-making and future investments 
+    
 ## Business Objectives
     - Understand the current performance of the retail store business 
     - Compare the sales performance of each region 
@@ -14,7 +14,10 @@
     - Provide data driven recommendations for future investments
 
 ## Dataset
-    The dataset contains sales records including:
+    Source: retail store dataset 
+    Period: 2015 to 2018
+    Regions: West, East, South and Central
+    Records include: 
     - Shipping Date
     - Shipping Mode
     - City
@@ -26,8 +29,8 @@
     - Discount
  
 ## Tools used
-    - Excel (for preparing dataset)
-    - Power BI (for visualization)
+    - Microsoft Excel for Data cleaning and preparation
+    - Power BI for Data modelling and visualization 
 
 ## Business Questions
     - How is the retail store performing in terms of sales and profit 
