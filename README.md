@@ -1,4 +1,4 @@
-## retail_store_analysis_project
+## retail_store_analysis
 
 ## Power BI Dashboard 
 ![Retail Store Dashboard](Dashboard.PNG)
