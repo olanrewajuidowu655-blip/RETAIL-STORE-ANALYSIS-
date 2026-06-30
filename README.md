@@ -61,3 +61,6 @@
     - In order to meet up with the sales target, sales should be increased through targeted marketing campaigns, customer retention initiatives, establishment of quarterly sales targets and expansion into high-performing regions to accelerate progress towards the sales target, identify shortfalls early and implement corrective measures before they affect the long-term business goals
 
     - Prioritize strategies that consistently keep sales above the 464.3K threshold by focusing on high-performing products, customer acquisition, and upselling opportunities to maximize profitability. Early warning sysytems should be established to monitor declining sales as it reaches the 74.45K threshold in order to initiate promotional campaigns, pricing adjustments, inventory optimization to prevent significant profit reductions
+
+## NOTE
+    The dataset used in this project is proprietary and cannot be shared publicly due to confidentiality. The repository includes the dashboard, analysis, and documentation to demonstrate my analytical approach.
