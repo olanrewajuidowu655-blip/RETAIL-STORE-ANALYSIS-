@@ -17,7 +17,7 @@
     Source: retail store dataset 
     Period: 2015 to 2018
     Regions: West, East, South and Central
-    Records: 9,994
+    Number of records: 9,994
     Columns include:
     - Shipping Date
     - Shipping Mode
@@ -52,7 +52,7 @@
     - Sales is the strongest driver of profit. When sales exceed 464.3K, profit increases significantly by an averaage of 142.6K. Conversely, when sales fall between 57.75 and 74.45K, profit decreases by an average of 21.42K. If sales drop further below 57.75K, the profit reduction deepens to an average of 50.45K. This indicates that maintaining sales above these critical thresholds is essential for sustaining profitability
  
 ## Recommendations
-    - Considering the target of 4.59M, progress of 2.30M and profit of 286.40, the profit is very little compared to the sales made, the cost of production, deductions, fees and other expenses should be reviewed in order to increase the profit margin
+    -Review production costs, operating expenses, discounts, and other deductions in order to improve profit margins, as the current profit remains relatively low compared to total sales generated.
 
     - The retail store gets its highest profit from the West at 37.86% followed by the East at 31.96%, these two regions represent more than 60% of the total profit, hence, they should be maintained in order to make sure they continue to generate profit for the retail store while the South and Central should be evaluated carefully to check what isn’t working, either in promotional events or demands or costs.
 
@@ -62,5 +62,6 @@
 
     - Prioritize strategies that consistently keep sales above the 464.3K threshold by focusing on high-performing products, customer acquisition, and upselling opportunities to maximize profitability. Early warning sysytems should be established to monitor declining sales as it reaches the 74.45K threshold in order to initiate promotional campaigns, pricing adjustments, inventory optimization to prevent significant profit reductions
 
-## NOTE
-    The dataset used in this project is proprietary and cannot be shared publicly due to confidentiality. The repository includes the dashboard, analysis, and documentation to demonstrate my analytical approach.
+## Dataset Availability
+
+    The dataset used in this project is proprietary and cannot be shared publicly due to confidentiality and data privacy requirements. This repository includes the dashboard, methodology, business questions, analysis, insights, and recommendations to demonstrate my analytical approach while respecting the organization's data protection policies.
